@@ -17,8 +17,10 @@ Mathematical and theoretical details can be found in the following references. I
 
 Please see the two files in the `examples/` directory for worked examples of Bose-Hubbard model, chemical vibrations, classical linear algebra, spin-<i>s</i> models, graph coloring, traveling salesperson problem, and machine scheduling.
 
-Intel Labs 2020 - 2022.
-Contact: nicolas.sawaya@intel.com
+The first version of this code was developed at Intel Labs in Santa Clara, California.
+
+mat2qubit is currently maintained by Azulene Labs.
+Contact: nicolas@azulenelabs.com.
 
 
 ## Installation
