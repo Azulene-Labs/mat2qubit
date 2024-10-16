@@ -20,7 +20,7 @@ Please see the two files in the `examples/` directory for worked examples of Bos
 The first version of this code was developed at Intel Labs in Santa Clara, California.
 
 `mat2qubit` is currently maintained by Azulene Labs.
-Contact: nicolas@azulenelabs.com.
+Contact: nicolas [at] azulenelabs.com.
 
 
 ## Installation
